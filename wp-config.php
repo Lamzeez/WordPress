@@ -1,4 +1,5 @@
 <?php
+define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /**
  * The base configuration for WordPress
  *
